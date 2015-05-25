@@ -1,4 +1,6 @@
-Project Parser
+#Project Parser#
+
+Envitonment: *Python 2.7.**
 
 Required libraries [name / *pip name*]:
 - requests / *requests*
