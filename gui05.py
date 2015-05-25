@@ -36,7 +36,7 @@ class MainWindow(QMainWindow):
         self.skillsLabel = QLabel()
         self.urlLabel = QLabel()
         self.locationLabel = QLabel()
-        self.skillsLabel.setText('Huj huj huj')
+        self.skillsLabel.setText('skills')
         self.detailsLabel.setWordWrap(True)
         self.la = QVBoxLayout()
         self.la.addWidget(self.detailsLabel)
